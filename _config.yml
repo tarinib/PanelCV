@@ -1,14 +1,14 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'http://tarinib.github.io'
+baseurl: 'http://tarinib.github.io' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Tarini Bhatnagar  ## put your name
+title: 'Aspiring Geo+ Data Scientist'  ## your title
+location: Vancouver, Canada
 
 
 ## Social Profiles
